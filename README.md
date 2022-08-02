@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cespirandelli
 - 👀 I’m interested in Data Science, Machine Learning & BI
 - 🌱 I’m currently learning Python for Data Analysis
-- 💞️ I’m looking to collaborate on python projects for begginers
+- 💞️ I’m looking to collaborate on python projects for beginers
 - 📫 How to reach me: www.linkedin.com/in/cespirandelli/
 
 <!---
