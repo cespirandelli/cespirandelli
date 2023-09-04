@@ -7,6 +7,8 @@ I've got some experience with Python and SQL, but I wouldn't say I'm a master of
 🚀 I'm on a mission to level up my coding skills, and you'll see my GitHub slowly filling up with stuff I'm working on. 
 It's all part of my journey to learn fast and learn well.
 
+📊 In addition to my work, I'm also in the final semester of my program at FIAP, where I'm pursuing a degree in Data Science with a focus on Big Data, Business Intelligence, and Data Engineering. 
+
 🤝 Join me on this coding adventure as I figure things out, one line of code at a time. 
 Let's connect, collaborate, and code together! 
 
