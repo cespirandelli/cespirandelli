@@ -1,5 +1,5 @@
 👋 Hey there! I'm César, and I'm diving headfirst into the exciting world of software development. 
-About three months ago, I switched gears from the Business Intelligence Team to the Development Team at my company, and I've been on a thrilling learning curve ever since.
+About six months ago, I switched gears from the Business Intelligence Team to the Development Team at my company, and I've been on a thrilling learning curve ever since.
 
 💼 Right now, I'm working on all sorts of projects, tinkering with tech like React, Node.js, and Django. 
 I've got some experience with Python and SQL, but I wouldn't say I'm a master of either just yet.
