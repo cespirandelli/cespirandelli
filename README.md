@@ -1,16 +1,10 @@
-👋 Hey there! I'm César, and I'm diving headfirst into the exciting world of software development. 
-Some while ago, I switched gears from the Business Intelligence to the Development Career, and I've been on a thrilling learning curve ever since.
+👋 Hey there! I'm César, made the  transition from Business Intelligence to the Development career. Currently, I'm fully immersed in the .Net environment, working on diverse projects to sharpen my coding skills.
 
-💼 Right now, I'm working on all sorts of projects, tinkering with mostly with .Net Environment. 
+💼 Right now, my focus lies in developing robust applications using .Net technologies. From web applications to desktop tools, I'm exploring the endless possibilities within this ecosystem.
 
-🚀 I'm on a mission to level up my coding skills, and you'll see my GitHub slowly filling up with stuff I'm working on. 
+🚀 I'm committed to leveling up my coding skills, and you'll find my GitHub gradually filling up with .Net projects showcasing my progress.
 
-📊 In addition to my work, I'm got my second degree at FIAP, Data Science, Big Data & Business Intelligence. 
-
-🤝 One line of code at a time. 
-Let's connect, collaborate, and code together! 
-
-📫 How to reach me: www.linkedin.com/in/cespirandelli/
+🤝 Let's collaborate and code together, one line at a time! Connect with me on LinkedIn: www.linkedin.com/in/cespirandelli/
 
 <!---
 cespirandelli/cespirandelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
