@@ -1,15 +1,13 @@
 👋 Hey there! I'm César, and I'm diving headfirst into the exciting world of software development. 
-About six months ago, I switched gears from the Business Intelligence Team to the Development Team at my company, and I've been on a thrilling learning curve ever since.
+Some while ago, I switched gears from the Business Intelligence to the Development Career, and I've been on a thrilling learning curve ever since.
 
-💼 Right now, I'm working on all sorts of projects, tinkering with tech like React, Node.js, and Django. 
-I've got some experience with Python and SQL, but I wouldn't say I'm a master of either just yet.
+💼 Right now, I'm working on all sorts of projects, tinkering with mostly with .Net Environment. 
 
 🚀 I'm on a mission to level up my coding skills, and you'll see my GitHub slowly filling up with stuff I'm working on. 
-It's all part of my journey to learn fast and learn well.
 
-📊 In addition to my work, I'm also in the final semester of my program at FIAP, where I'm pursuing a degree in Data Science with a focus on Big Data, Business Intelligence, and Data Engineering. 
+📊 In addition to my work, I'm got my second degree at FIAP, Data Science, Big Data & Business Intelligence. 
 
-🤝 Join me on this coding adventure as I figure things out, one line of code at a time. 
+🤝 One line of code at a time. 
 Let's connect, collaborate, and code together! 
 
 📫 How to reach me: www.linkedin.com/in/cespirandelli/
